@@ -22,6 +22,7 @@
   - [ ] [ES6 & Beyong](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [The Promise of a Burger Party - Mariko Kosaka](https://kosamari.com/notes/the-promise-of-a-burger-party)
 - [JS concepts you should know](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
+- [Harvard - CS50x - Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 
 ### Javascript design patterns
