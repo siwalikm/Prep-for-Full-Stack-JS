@@ -1,5 +1,3 @@
-
-
 # In Pursuits of Full Stack Development with JS 🚀
   
 
