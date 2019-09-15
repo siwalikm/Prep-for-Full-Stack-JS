@@ -32,15 +32,17 @@
   - [ ] Observer
   - [ ] Singleton
 > ###### Some meterials I found useful
-> - [4 JavaScript Design Patterns You Should Know ― Scotch](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 > - [Learning JavaScript Design Patterns - addyosmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+> - [4 JavaScript Design Patterns You Should Know ― Scotch](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 
 
 ### Data Structures and Algorithms  
 - [Algorithms and Data Structures in JS with Bianca Gandolfo](https://frontendmasters.com/workshops/algorithms-data-structures-js/)
 - [Data Structures – basecs – Medium](https://medium.com/basecs/tagged/data-structures)
 - [Algorithms – basecs – Medium](https://medium.com/basecs/tagged/algorithms)
-
+> ###### Some meterials I found useful
+> - LeetCode - Great for practicing DS and Algorithm problems
+> - BaseCS podcast - great for getting basics clear before starting to read/practice problems
 
 ### Learn a Frontend Framework
 - [ ] Learn React (can be Ember/Angular etc.)
@@ -66,5 +68,5 @@
 
 
 Did I miss something? Raise a PR. 🙌
-I would love to hear about your journey, tweet to me [@siwalik](https://www.twitter.com/siwalik)
-###### When in doubt[ => refer frontend masters handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+I would love to hear about your journey, tweet to me [@siwalikm](https://www.twitter.com/siwalikm)
+###### When in doubt[ => refer frontend masters handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
